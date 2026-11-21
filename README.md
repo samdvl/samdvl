@@ -10,7 +10,7 @@ Over 9 years of hands-on experience bridging mission-critical IT infrastructures
 
 ### Core Focus Areas
 
-- **IT Infrastructure & Cybersecurity:** Autonomous design and management of multi-site infrastructures (6–10 plants, 10–30 servers), VMware vSphere HA clusters, redundant industrial networking (MikroTik), Acronis disaster recovery, SIEM, and ISO/IEC 27001 & NIS2 operational alignment.
+- **IT Infrastructure & Cybersecurity:** Autonomous design and management of multi-site infrastructures, VMware vSphere HA clusters, redundant industrial networking (MikroTik), Acronis disaster recovery, SIEM, and ISO/IEC 27001 & NIS2 operational alignment.
 - **OT/IT Integration & Level 2 Software (ISA-95):** End-to-end C# / .NET development of resilient Windows Services, WPF operator HMIs, Siemens PLC integration (TIA Portal S7-1200, OPC UA, Sharp7, Snap7), AGV fleet orchestration (REST/JSON), MES/L3 interfacing, and industrial metrology software.
 - **Applied Computer Vision & MLOps:** Training supervised models on Google Cloud Vertex AI and deploying them in production as offline or centralized HTTP REST inference services inside Docker containers, integrated directly with PLCs, relational databases, and MES validation workflows.
 
